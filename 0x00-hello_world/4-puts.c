@@ -6,10 +6,10 @@
 #include <stdio.h>
 
 /**
+ *main - Prints
  *
- *Prints string
  *
- *Return 0
+ *Return: Always 0.
  */
 int main(void)
 {
