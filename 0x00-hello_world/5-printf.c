@@ -6,7 +6,7 @@
  */
 #include <stdio.h>
 /**
- *main - prints "with proper gramar, but the outcome is a piece of art," then newline
+ *main - prints "with proper gramar, but the outcome is a piece of art,"
  *
  *
  *Return: Always 0.
