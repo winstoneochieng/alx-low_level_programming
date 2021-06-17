@@ -1,13 +1,13 @@
-/**
- *Auth: Winstone Ochieng
+/*
+ *File: 5-printf.c
  *
- *Program
- *
+ *Written by winstoneochieng
  *
  */
 #include <stdio.h>
 /**
- *main - prints with proper gramar, but the outcome is a piece of art
+ *main - prints "with proper gramar, but the outcome is a piece of ar," followed by a new linet
+ *
  *
  *Return: Always 0.
  */
