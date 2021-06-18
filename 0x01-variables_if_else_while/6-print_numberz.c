@@ -1,8 +1,3 @@
-/*
- *File: 6-print_numberz.c
- *Author: winstone
- */
-
 #include <stdio.h>
 
 /**
