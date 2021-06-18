@@ -5,11 +5,11 @@
 
 #include <stdio.h>
 
-/*
+/**
  * main - Prints the alphabet in lowercase,
  * followed by mew line
  *
- * Return: 0 is success
+ * Return: Always 0 is success
  */
 int main(void)
 {
