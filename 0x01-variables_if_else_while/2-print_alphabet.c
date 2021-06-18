@@ -1,23 +1,21 @@
-/*
- * By: Winstone
- * Filename
- *
- */
 
 #include <stdio.h>
 
 /**
  * main - Entry point
  *
+ * Description: Using the main funnction
+ * this program prints the alphabet in lowercase
  * Return: Always 0.
  */
 int main(void)
 {
-	char letter;
+	char ltr;
 
-	for (letter = 'a'; letter <= 'z'; letter++)
-		putchar(letter);
-
+	for (ltr = 'a'; ltr <= 'z'; ltr++)
+	{
+		putchar(ltr);
+	}
 	putchar('\n');
 
 	return (0)
