@@ -6,8 +6,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints the alphabet in lowercase,
- * followed by mew line
+ * main - Entry point
  *
  * Return: Always 0 is success
  */
