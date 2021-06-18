@@ -8,6 +8,7 @@
 int main(void)
 {
 int num;
+
 for (num = 0; num < 0; num++)
 {
 putchar((num % 10) + '0');
