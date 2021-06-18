@@ -13,9 +13,9 @@ int main(void)
 	char ltr;
 
 	for (ltr = 'a'; ltr <= 'z'; ltr++)
-	putchar(ltr);
+	putchar(ltr + 1);
 
 	putchar('\n');
 
-	return (0)
+	return (0);
 }
