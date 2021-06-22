@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
- * main - check the code for ALX School students.
+ * jack_bauer - function that prints every minute of the day of Jack Bauer
  *
  * Return: Always 0.
  */
