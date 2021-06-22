@@ -2,7 +2,8 @@
 
 /**
  * int _islower - function checks if lowercase
- *
+ * 
+ * int c - variable used for in the program
  * Return: Always 0.
  */
 int _islower(int c)
