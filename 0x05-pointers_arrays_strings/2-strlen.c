@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
- * _strlen - check the code for Holberton School students.
+ * _strlen - returns the length of a string.
  * @s: declaration of *s and paramters for the function _strlen
  * Return: Always 0.
  */
