@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
- * _strncpy - check the code for Holberton School students.
+ * _strncpy - function that copies a string.
  * @src: parameter to a src to copy
  * @dest: parameter for dest
  * @n: parameter for number of bytes
