@@ -1,10 +1,7 @@
-# More malloc, free
+# Low-Level Programming - Data Structures, Algorithms, Linux/Unix System Programming
 
-## Files
+This repository contains projets completed for the low-level programming and algorithm track at Holberton School.
 
-- 0-malloc_checked.c
-- 1-string_nconcat.c
-- 2-calloc.c
-- 3-array_range.c
-- 100-realloc.c
-- 101-mul.c
+# **Author**
+
+> - Winstone Ochieng
