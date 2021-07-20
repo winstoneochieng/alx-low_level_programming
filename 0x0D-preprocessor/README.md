@@ -1,6 +1,6 @@
 # C - Preprocessor
 
-#### In this projects I learned about C macros, include gaurds and header files
+In this projects I learned about C macros, include gaurds and header files
 
 ## Files:
 
