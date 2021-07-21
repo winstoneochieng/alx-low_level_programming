@@ -2,6 +2,6 @@
 
 In this project, I learned about function pointers in C
 
-## Files
+### Files
 
 * 0-print_name.c
